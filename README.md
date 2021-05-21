@@ -4,6 +4,7 @@ Folder EFI for motherboard ASUS Z97 K R2.0
 SPECIFICATIONS
 --------------
 
+|  			  | 									 |
 | :---------: | :----------------------------------: |
 | CPU		  | Intel Core i5-4690 Quad-Core 3,5 GHz |
 | Motherboard | Z97-K R2.0						     |
