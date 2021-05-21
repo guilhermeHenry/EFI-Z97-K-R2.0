@@ -4,13 +4,14 @@ Folder EFI for motherboard ASUS Z97 K R2.0
 SPECIFICATIONS
 --------------
 
-CPU	Intel   | Intel Core i5-4690 Quad-Core 3,5 GHz
-Motherboard | Z97-K R2.0
-Chipset     | Intel® Z97
-Graphic     | Intel® HD Graphics support
-LAN         | Realtek® 8111GR
-Memory      | 4 x DIMM, Max. 32GB, DDR3
-Audio       | Realtek ALC887/897
+| :-------: | :----------------------------------: |
+CPU	Intel   | Intel Core i5-4690 Quad-Core 3,5 GHz |
+Motherboard | Z97-K R2.0						   |
+Chipset     | Intel® Z97  						   |
+Graphic     | Intel® HD Graphics support		   |
+LAN         | Realtek® 8111GR				       |
+Memory      | 4 x DIMM, Max. 32GB, DDR3			   |
+Audio       | Realtek ALC887/897				   |
 
 
 See More
