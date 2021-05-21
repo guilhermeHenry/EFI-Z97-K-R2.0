@@ -3,7 +3,8 @@ Folder EFI for motherboard ASUS Z97 K R2.0
 
 SPECIFICATIONS
 --------------
-CPU	Intel   | i5-9400
+
+CPU	Intel   | Intel Core i5-4690 Quad-Core 3,5 GHz
 Motherboard | Z97-K R2.0
 Chipset     | Intel® Z97
 Graphic     | Intel® HD Graphics support
