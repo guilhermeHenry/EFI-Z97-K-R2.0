@@ -1,2 +1,45 @@
-# EFI-Z97-K-R2.0
-Pasta EFI para a Placa Mãe ASUS Z97 K R2.0
+# HACKINTOSH CATALINA - EFI-Z97-K-R2.0
+Folder EFI for motherboard ASUS Z97 K R2.0
+
+SPECIFICATIONS
+--------------
+CPU	Intel   | i5-9400
+Motherboard | Z97-K R2.0
+Chipset     | Intel® Z97
+Graphic     | Intel® HD Graphics support
+LAN         | Realtek® 8111GR
+Memory      | 4 x DIMM, Max. 32GB, DDR3
+Audio       | Realtek ALC887/897
+
+
+See More
+--------
+[ASUS Z97-K R2.0 SPECIFICATIONS](https://origin-www.asus.com/motherboards/z97k_r20/specifications/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
